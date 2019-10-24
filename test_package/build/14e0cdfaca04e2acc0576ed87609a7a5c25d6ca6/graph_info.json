@@ -1,0 +1,14 @@
+{
+ "options": [
+  [
+   "libgo:shared",
+   "True"
+  ]
+ ],
+ "root": {
+  "name": null,
+  "version": null,
+  "user": "tao",
+  "channel": "test"
+ }
+}

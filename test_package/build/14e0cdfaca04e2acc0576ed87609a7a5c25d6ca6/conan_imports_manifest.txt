@@ -1,0 +1,2 @@
+1571821906
+/root/git/libgo_pack/test_package/build/14e0cdfaca04e2acc0576ed87609a7a5c25d6ca6/bin/liblibgo.so: 7ffd9229837967433dc63286e936e6ff

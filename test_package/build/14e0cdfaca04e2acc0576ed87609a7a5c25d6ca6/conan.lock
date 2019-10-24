@@ -1,0 +1,20 @@
+{
+ "profile": "[settings]\narch=x86_64\narch_build=x86_64\nbuild_type=Release\ncompiler=gcc\ncompiler.libcxx=libstdc++\ncompiler.version=4.8\nos=Linux\nos_build=Linux\n[options]\n[build_requires]\n[env]\n",
+ "graph_lock": {
+  "nodes": {
+   "f787e248-f574-11e9-8e5a-525400068ac2": {
+    "pref": "None/None@tao/test:53792e5f38a3f14d9d60cc5c6d736263e2e54ba5",
+    "options": "libgo:shared=True",
+    "requires": {
+     "libgo/v3.1-stable@tao/test#8587ea8d721cc652e5fae3889928dd1e": "f787e05e-f574-11e9-8e5a-525400068ac2"
+    },
+    "path": "/root/git/libgo_pack/test_package/conanfile.py"
+   },
+   "f787e05e-f574-11e9-8e5a-525400068ac2": {
+    "pref": "libgo/v3.1-stable@tao/test#8587ea8d721cc652e5fae3889928dd1e:4f7d6d5032b1a188f98e0c149ef6bf91e76af63e#45bfa4424575d6f1b39fa6bb2e51b9ef",
+    "options": "shared=True"
+   }
+  }
+ },
+ "version": "0.1"
+}
